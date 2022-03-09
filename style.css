@@ -1,0 +1,12 @@
+#BIN {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#BIND {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;
+}
+input {
+    margin: 10px;
+}
